@@ -32,7 +32,7 @@ is easily reversible.
 ![Assembled PCB](https://raw.githubusercontent.com/jamesturton/bose-qc35-usb-c/main/pics/assembled.jpg)
 
 The exisiting USB daughter board has been reverse-engineered and it's schematic
-has been drawn using KiCad 6.0. All of the source files are provided here if you
+has been drawn using KiCad 8.0. All of the source files are provided here if you
 would like to make any more changes, however the [gerber files](https://github.com/jamesturton/bose-qc35-usb-c/blob/main/gerber.zip?raw=true)
 are also provided which can be sent directly to the PCB fab of your choosing.
 The thickness of the PCB should be 1mm.
