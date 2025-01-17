@@ -6257,7 +6257,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fa96fa3")
 		(property "Reference" "R1"
 			(at 100.838 129.6416 0)
@@ -6335,7 +6335,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fa97d4b")
 		(property "Reference" "R2"
 			(at 128.778 129.6416 0)
@@ -6413,7 +6413,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fa9868d")
 		(property "Reference" "R3"
 			(at 156.718 129.6416 0)
@@ -6491,7 +6491,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fa98ec7")
 		(property "Reference" "R4"
 			(at 184.658 129.6416 0)
@@ -6967,7 +6967,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C127344"
+		(property "LCSC" "C18548053"
 			(at 267.462 45.9232 0)
 			(effects
 				(font
@@ -9493,7 +9493,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fc841c2")
 		(property "Reference" "R17"
 			(at 237.998 58.5216 0)
@@ -9571,7 +9571,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fc8950a")
 		(property "Reference" "R18"
 			(at 245.618 58.5216 0)
@@ -9649,7 +9649,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fc8997e")
 		(property "Reference" "R19"
 			(at 253.238 58.5216 0)
@@ -9985,7 +9985,7 @@
 		(at 138.43 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fd2d414")
@@ -10048,7 +10048,7 @@
 		(at 138.43 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fd2e965")

@@ -137,7 +137,7 @@
         "min_track_width": 0.127,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.6,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -498,7 +498,7 @@
       "plot": "",
       "pos_files": "cpl/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "bose-qc35-usb-c.step",
       "svg": "",
       "vrml": "bose-qc35-usb-c.wrl"
     },
